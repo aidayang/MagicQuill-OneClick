@@ -1,0 +1,2 @@
+# MagicQuill-OneClick
+MagicQuill智能交互式图像编辑软件免安装一键启动整合包
